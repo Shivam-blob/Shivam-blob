@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-blob&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-blob" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Tkinter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivam-blob/Python_Projects](https://github.com/Shivam-blob/Python_Projects)
 
